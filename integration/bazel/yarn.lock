@@ -141,10 +141,10 @@
   resolved "https://registry.yarnpkg.com/@bazel/hide-bazel-files/-/hide-bazel-files-0.34.0.tgz#368ea84db2756ff80ead23bb9eb179e9ed24b462"
   integrity sha512-suyO6cZf8iV6W2LkM1X1spWBt7CsRRXH7gU1wYNuAuHYkkfI0A6qj84yPiIXiOt/2G44kbioGyC1bUsI3fKv7A==
 
-"@bazel/karma@0.38.2":
-  version "0.38.2"
-  resolved "https://registry.yarnpkg.com/@bazel/karma/-/karma-0.38.2.tgz#13c0eb8f09fdc579ef3a2493d6014d77cdc03670"
-  integrity sha512-pTeHciOyg5ViCCl8Vn5N/wSJSTrxh+26+drlh0GBW8gzUTGIfWDVnma3oA6lLp8zyaCzkpoMP2ukrwBky3nk1Q==
+"@bazel/karma@0.38.3":
+  version "0.38.3"
+  resolved "https://registry.yarnpkg.com/@bazel/karma/-/karma-0.38.3.tgz#4db94a2227d7e8863505dfcfe9de81a2cb1f7d0b"
+  integrity sha512-5ywjZsigJpdG4wr1iy2UNkfEgQcBvRjHoVfUQqLF1Dp0uBdqG7Qq2quu0Zypd/UodbvTye1pHWQ+Lq7cEz6JWg==
   dependencies:
     jasmine-core "2.8.0"
     karma "~4.1.0"
@@ -158,17 +158,17 @@
     semver "5.6.0"
     tmp "0.0.33"
 
-"@bazel/protractor@0.38.2":
-  version "0.38.2"
-  resolved "https://registry.yarnpkg.com/@bazel/protractor/-/protractor-0.38.2.tgz#be0804c246d412f8b285fc22a320ab9b471c7a5d"
-  integrity sha512-bo5v7CpG9TlPX2lx/XueviMt8KY7KDaL7rcw5SR3uU+4w+gX6bTjdnSsVXCUH2YrTTz6VgZaBZO3O0GTbjDP+w==
+"@bazel/protractor@0.38.3":
+  version "0.38.3"
+  resolved "https://registry.yarnpkg.com/@bazel/protractor/-/protractor-0.38.3.tgz#e9599271e87527378e56d97de960919f72256746"
+  integrity sha512-vs5Zi9Gw3FZ0OnmdJxDzOZJaA2Aeqq3GcAvK8jlQ6fzVc9w8TP6BmAhraOHJYFPj5rMz2fQF/e3Ovrtn4KA3Zw==
   dependencies:
     protractor "^5.4.2"
 
-"@bazel/typescript@0.38.2":
-  version "0.38.2"
-  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-0.38.2.tgz#d07e20c910e0e7250ebbdf64f3ef3014ad8e3039"
-  integrity sha512-KATYNcRaF5JxtmEAczpr1CRZwmPSTAWUA/3Ogp8R17SA7ts9P+K8WPr3eml1b9JkiUzmNvERMU8HNEslDMuhvg==
+"@bazel/typescript@0.38.3":
+  version "0.38.3"
+  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-0.38.3.tgz#0e452413ca81fc9429404ceabf60ebfb4f13474a"
+  integrity sha512-sFPYNDEE5h/k+Arop3q8XWaqoTwSy0IUS0a/YSeLhR/yz7pNmOltjPyeseLmo004BhgH7X4X+LjUQjcgv7lpXw==
   dependencies:
     protobufjs "6.8.8"
     semver "5.6.0"
@@ -952,9 +952,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
